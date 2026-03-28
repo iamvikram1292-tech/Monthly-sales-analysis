@@ -33,6 +33,9 @@ This project analyzes monthly sales data using Microsoft Excel to extract insigh
 2. Open in Microsoft Excel
 3. Explore sheets, pivot tables, and charts
 
+## 📊 Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
 ## 📌 Project Status
 Completed ✔
 
